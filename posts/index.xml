@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Ellen Tong</title>
+    <link>https://ellentong.github.io/posts/</link>
+    <description>Recent content in Posts on Ellen Tong</description>
+    <generator>Hugo -- 0.144.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Feb 2025 19:57:54 +0800</lastBuildDate>
+    <atom:link href="https://ellentong.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://ellentong.github.io/posts/test/</link>
+      <pubDate>Sun, 23 Feb 2025 19:57:54 +0800</pubDate>
+      <guid>https://ellentong.github.io/posts/test/</guid>
+      <description>&lt;h3 id=&#34;欢迎使用hugo&#34;&gt;欢迎使用Hugo！&lt;/h3&gt;
+&lt;p&gt;这是一个静态网站生成器，快速且高效。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
