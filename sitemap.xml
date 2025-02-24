@@ -2,30 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ellentong.github.io/categories/</loc>
+    <loc>http://localhost:53629/posts/test/</loc>
     <lastmod>2025-02-23T19:57:54+08:00</lastmod>
   </url><url>
-    <loc>https://ellentong.github.io/</loc>
+    <loc>http://localhost:53629/categories/</loc>
     <lastmod>2025-02-23T19:57:54+08:00</lastmod>
   </url><url>
-    <loc>https://ellentong.github.io/tags/hugo/</loc>
+    <loc>http://localhost:53629/</loc>
     <lastmod>2025-02-23T19:57:54+08:00</lastmod>
   </url><url>
-    <loc>https://ellentong.github.io/posts/</loc>
+    <loc>http://localhost:53629/posts/</loc>
     <lastmod>2025-02-23T19:57:54+08:00</lastmod>
   </url><url>
-    <loc>https://ellentong.github.io/tags/</loc>
+    <loc>http://localhost:53629/tags/</loc>
     <lastmod>2025-02-23T19:57:54+08:00</lastmod>
   </url><url>
-    <loc>https://ellentong.github.io/posts/test/</loc>
+    <loc>http://localhost:53629/tags/%E4%B8%AA%E4%BA%BA/</loc>
     <lastmod>2025-02-23T19:57:54+08:00</lastmod>
   </url><url>
-    <loc>https://ellentong.github.io/categories/%E6%8A%80%E6%9C%AF/%E5%BB%BA%E7%AB%99/</loc>
+    <loc>http://localhost:53629/categories/%E4%B8%AA%E4%BA%BA/</loc>
     <lastmod>2025-02-23T19:57:54+08:00</lastmod>
   </url><url>
-    <loc>https://ellentong.github.io/tags/%E9%9D%99%E6%80%81%E7%94%9F%E6%88%90%E5%99%A8/</loc>
-    <lastmod>2025-02-23T19:57:54+08:00</lastmod>
-  </url><url>
-    <loc>https://ellentong.github.io/archives/</loc>
+    <loc>http://localhost:53629/archives/</loc>
   </url>
 </urlset>

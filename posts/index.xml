@@ -2,19 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Ellen Tong</title>
-    <link>https://ellentong.github.io/posts/</link>
+    <link>http://localhost:53629/posts/</link>
     <description>Recent content in Posts on Ellen Tong</description>
     <generator>Hugo -- 0.144.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 23 Feb 2025 19:57:54 +0800</lastBuildDate>
-    <atom:link href="https://ellentong.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:53629/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>https://ellentong.github.io/posts/test/</link>
+      <title>About Me</title>
+      <link>http://localhost:53629/posts/test/</link>
       <pubDate>Sun, 23 Feb 2025 19:57:54 +0800</pubDate>
-      <guid>https://ellentong.github.io/posts/test/</guid>
-      <description>&lt;h3 id=&#34;欢迎使用hugo&#34;&gt;欢迎使用Hugo！&lt;/h3&gt;
-&lt;p&gt;这是一个静态网站生成器，快速且高效。&lt;/p&gt;</description>
+      <guid>http://localhost:53629/posts/test/</guid>
+      <description>&lt;p&gt;👋 Hi, 我叫 Ellen Tong.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;正在从 &amp;lt;产品经理&amp;gt; 到 &amp;lt;独立开发者&amp;gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;🎓 我毕业于UESTC&lt;/p&gt;
+&lt;p&gt;🐧 现供职于腾讯&lt;/p&gt;
+&lt;p&gt;🧰 从事效率工具类B端产品设计。&lt;/p&gt;
+&lt;p&gt;在AI的浪潮下，每个人都可以成为“超级个体”。
+而我也在业余为此而努力。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;除此之外，我的兴趣还有 🐈‍猫、📷摄影、🎮游戏、🏸羽毛球。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;如果你对我感兴趣，可以通过邮箱联系我。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
